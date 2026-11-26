@@ -1,0 +1,10 @@
+{
+  "name": "ai-therapist-diagnosis-4be14a41",
+  "version": "1.0.0",
+  "description": "Your AI Therapist's Diagnosis — a funny single-line diagnosis an AI therapist hands its human (make.fun entry)",
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
